@@ -1,0 +1,9 @@
+.tp-modal {
+  display: none !important;
+}
+.tp-backdrop.tp-active {
+  display: none !important;
+}
+body.tp-modal-open {
+  overflow: auto !important;
+}
